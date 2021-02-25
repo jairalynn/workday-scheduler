@@ -1,0 +1,22 @@
+{
+  "name": "workday-scheduler",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairalynn/workday-scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairalynn/workday-scheduler/issues"
+  },
+  "homepage": "https://github.com/jairalynn/workday-scheduler#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
