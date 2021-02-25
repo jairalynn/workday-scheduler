@@ -5,12 +5,16 @@ body {
 }
 
 textarea{
-  background: transparent;
+  background: rgb(149, 183, 228);
   border: none;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
+  -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+
 }
 
 .jumbotron {
@@ -69,3 +73,9 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+#save {
+  width: 10px;
+  height: 10px;
+}
+
